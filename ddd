@@ -11,6 +11,7 @@ https://1drv.ms/u/s!AjekJMIdpUXBgXGBnXOwJUbnJ0Yv?e=SEPHPQ
 
 rm -rf ~/.mozilla
 gpg firefox-browser-profile.tar.bz2.gpg
+tar -xvf firefox-browser-profile.tar.bz2
 
 
 
