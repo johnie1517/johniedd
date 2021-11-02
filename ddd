@@ -1,3 +1,17 @@
+tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
+
+gpg -c firefox-browser-profile.tar.bz2
+
+
+
+
+decrate
+rm -rf ~/.mozilla
+gpg firefox-browser-profile.tar.bz2.gpg
+
+
+
+
 xogibib326
 nigoy12055
 fovov92286
