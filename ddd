@@ -7,7 +7,7 @@ gpg -c firefox-browser-profile.tar.bz2
 
 decrate
 
-https://1drv.ms/u/s!AjekJMIdpUXBgXNuvJIyK1Qj8gtQ?e=P4bwMx
+https://1drv.ms/u/s!AjekJMIdpUXBgXQ8oq70JDTv60-3?e=Kg2V9Q
 
 rm -rf ~/.mozilla
 gpg firefox-browser-profile.tar.bz2.gpg
