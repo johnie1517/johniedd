@@ -3,7 +3,7 @@ tar -jcvf firefox-browser-profile.tar.bz2 .mozilla
 gpg -c firefox-browser-profile.tar.bz2
 
 
-
+https://1drv.ms/u/s!AjekJMIdpUXBgXUexeNU6nrge76d?e=vrG7MK
 
 decrate
 
